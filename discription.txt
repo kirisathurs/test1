@@ -1,1 +1,1 @@
-
+To understand this example, you should have the knowledge of the following C programming topics:
